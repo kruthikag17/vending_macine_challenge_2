@@ -1,0 +1,301 @@
+Inside Nginx Lua script: Processing Order... Request from: 1
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 2
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 3
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 4
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 5
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 6
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 7
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 8
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 9
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 10
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 11
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 12
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 13
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 14
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 15
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 16
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 17
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 18
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 19
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 20
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 21
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 22
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 23
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 24
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 25
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 26
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 27
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 28
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 29
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 30
+Status: false
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 31
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 32
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 33
+Status: false
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 34
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 35
+Status: false
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 36
+Status: false
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 37
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 38
+Status: false
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 39
+Status: false
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 40
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 41
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 42
+Status: false
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 43
+Status: false
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 44
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 45
+Status: false
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 46
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 47
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 48
+Status: false
+Beverage Type: cappuccino 
+Inside Nginx Lua script: Processing Order... Request from: 49
+Status: false
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 50
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 51
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 52
+Status: false
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 53
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 54
+Status: false
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 55
+Status: false
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 56
+Status: false
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 57
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 58
+Status: false
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 59
+Status: false
+Beverage Type: 
+Inside Nginx Lua script: Processing Order... Request from: 60
+Status: false
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 61
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 62
+Status: false
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 63
+Status: false
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 64
+Status: false
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 65
+Status: false
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 66
+Status: false
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 67
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 68
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 69
+Status: false
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 70
+Status: false
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 71
+Status: false
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 72
+Status: false
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 73
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 74
+Status: false
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 75
+Status: false
+Beverage Type: 
+Inside Nginx Lua script: Processing Order... Request from: 76
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 77
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 78
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 79
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 80
+Status: false
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 81
+Status: false
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 82
+Status: false
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 83
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 84
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 85
+Status: false
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 86
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 87
+Status: false
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 88
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 89
+Status: false
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 90
+Status: false
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 91
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 92
+Status: false
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 93
+Status: false
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 94
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 95
+Status: false
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 96
+Status: false
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 97
+Status: false
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 98
+Status: false
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 99
+Status: false
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 100
+Status: false
+Beverage Type: cappuccino
+
